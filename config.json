@@ -1,0 +1,22 @@
+{
+    "development": true,
+    "host": "0.0.0.0",
+    "port": 4455,
+    "reload": true,
+    "cors": {
+        "origins": [
+            "*"
+        ],
+        "headers": [
+            "*"
+        ],
+        "methods": [
+            "*"
+        ],
+        "cookies": true
+    },
+    "token_salt": "@^4_00wedv**pi)+(!w1@rwi=d*3sdf@4l=ie*=g-u$s8jevmj*z2h",
+    "init": {
+        "user_avatar": "https://pidbid.oss-cn-hangzhou.aliyuncs.com/avatar/avatar.png"
+    }
+}
